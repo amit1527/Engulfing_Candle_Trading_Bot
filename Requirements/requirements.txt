@@ -1,0 +1,5 @@
+# ⚙️Requirements
+- Python 3.8+
+- Pandas
+- Alpaca Api
+- Matplotlib (optional)
